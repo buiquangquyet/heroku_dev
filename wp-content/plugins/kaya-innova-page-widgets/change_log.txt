@@ -1,0 +1,192 @@
+version 2.2.4
+====================
+- Icon Box Icon Issue Fixed
+
+version 2.2.3
+====================
+- Added Innova social icons widget.
+- Added Innova Icons Text widget.
+
+version 2.2.2
+====================
+- Added Autoplay transition time option in image gallery widget.
+- Draggable slider widget default image issue fixed.
+- Image box widget default image issue fixed.
+- Portfolio widget default image issue fixed.
+ 
+version 2.2.1
+====================
+- Owl carousel slider disturbing while page loading issue fixed.
+
+version 2.2
+====================
+- Added new "justify" text option to custom title widget.
+
+version 2.1.9
+====================
+- Wp color picker issue fixed.
+
+version 2.1.8
+====================
+-Testimonial slider issue fixed.
+
+version 2.1.7
+====================
+- Added new option to change success message text in contact form widget.
+- Draggable slider autoplay not working issue fixed.
+- Draggable slider loading issue fixed.
+- Updated icon box widget icons.
+- Added new "Innova-Custom menu" widget to add menu in pages.
+- Added video tutorial to image gallery widget.
+- Added video tutorial to portfolio widget.
+- Pretty photo thumbnail images issue in image gallery widget.
+version 2.1.6
+====================
+- Added new Gutter option to draggable slider widget.
+- Added new options to change contact form field names in contact form widget.
+- contact form fields not reseting after submission isuue fixed.
+- iconbox widget  container border size increased.
+- blog widget pagination not working issue fixed.
+- Added font-weight option to imagebox widget title and description.
+- Added font-size option to imagebox widget title.
+- Added image border radius option to imagebox widget.
+- Image gallery widget alignment issue fixed.
+- Image gallery widget hover effect issue fixed.
+- Draggable slider disturbing when fluid stretched option selected issue fixed.
+- iconbox alignment disturbing when iconbox positon center selected issue fixed.
+- testimonial slider issue when 3 column selected fixed.
+- draggable slider widget disturbing while page loading issue fixed.
+- Image gallery widget disturbing while page loading issue fixed.
+- Image gallery lightbox not working issue fixed.
+- toggle tabs displaying only on scroll issue fixed.
+- Added new 5 column option to image gallery widget.
+- contact form button border issue fixed.
+- Image gallery responsive issue fixed.
+- draggable slider responsive issue fixed.
+- custom title displaying only on scroll issue fixed.
+
+version 2.1.5
+====================
+- Portfolio pagination issue fixed.
+- Widget Slider loop issue fixed.
+
+version 2.1.4
+====================
+- draggable slider issue fixed.
+- Testimonial slider issue fixed. 
+
+version 2.1.3
+====================
+- Contact form widget issue fixed.
+- Innova Widget Slider margin-left issue fixed.
+- Innova Widget Slider Navigation Buttons issue fixed.
+
+version 2.1.2
+====================
+- Added RTL css file.
+- Added "Item Thumbnail Width" option to "Portfolio widget".
+- Added "Slider Item Thumbnail width" to "Draggable Slider".
+- Modify "Bx Slider" to support RTL css file.
+- Modify "Draggable Slider" to support RTL css file.
+- Modify "Innova Slider" to support RTL css file.
+- Modify "Testimonial Slider" to support RTL css file.
+- Added default featured image to "Innova Latest News Widget".
+
+
+version 2.1.1
+====================
+- Innova slider widget changed from bxslider to owl-carousel.
+
+
+version 2.1
+====================
+- Mobile and Ipad responsive issues fixed.
+
+version 2.0.1
+====================
+-Added Color options for Navigation Buttons in Innova-slider Widget.
+-Icon Box title font size bug fixed
+-draggable slider description content changed to excerpt textarea. 
+-Toggle & Tabs Issue Fixed
+-Testimonial slider margin issue Fixed.
+-Image box read more button top margin removed
+-added Image Box title Font size option
+
+version 2.0
+====================
+- Improved widget stylings
+- Improved Button widget
+- Improved Dropcap widget
+- Improved Custom Title widget
+- Improved Listbox widget
+- Improved info boxes widget
+- Improved Toggle Tabs widget
+- Added Testimonial slider widget
+- Added New Property details widget to add Property Information
+- Added Responsive for Draggable Slider widget
+- Improved Images Gallery widget
+- Added Icon box widget
+- Added animation for all widgets
+- updated owl carousel js to latest version of js
+
+version 1.3.4
+====================
+	- Added New Feature : Added Innova-Gallery Images widget.
+
+
+version 1.3.3
+====================
+ - Fixed bug : Major Languague Translation issues fixed.
+
+
+version 1.3.2
+====================
+	- Fixed bug : Translation issue fixed.
+
+version 1.3.1
+====================
+
+	- Added  10 Localization files in different languages already translated using .po files
+
+	Arabic (ar)
+	Czech – (cs_CZ)
+	Spanish – (es)
+	French – (fr)
+	Italian - (it_IT)
+	Polish – (pl_PL)
+	Portuguese – (pt_BR)
+	Russian – (ru)
+	hebrew - (he_IL)
+	Danish - (da_DK)
+
+version 1.3
+====================
+
+	- Fixed bug : Language Transalation issue fixed.
+
+version 1.2
+====================
+
+ 	- Fixed bug : Recoded displaying post items from Category slug to category ID, in Portfolio CPT , kaya slider CPT, draggable slider and blog posts.
+
+ 	- Fixed bug : Removed hyper link from dropcap and added to Title.
+
+ 	- Fixed bug : "Clear" tab in Contact form widget only displays when you add text for tab field.
+
+ 	- Added New Featuees : Multiple category support for Tab Items.
+
+ 	- Fixed bug : Order attribute added for Kaya Slider and Tab Items CPT.
+
+ 	- Fixed bug : Pagination Added for "Innova-Portfolio" and "Innova-Lates News" Widgets.
+
+ 	- New feature added : "Innova-Blog" Widget added.
+
+ 	- New feature added : "Innova-Contact Form" Widget added.
+
+version 1.1
+====================
+	- New feature added : Image widget upload button issue in widget area fixed.
+
+version 1.0
+====================
+	Intial Release 

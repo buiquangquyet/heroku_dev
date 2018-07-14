@@ -1,0 +1,33 @@
+.readmore {
+	padding: 6px 15px;
+	display: inline-block;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+/* Button 1c */
+.readmore:hover {
+	opacity: .8;
+	
+}
+/* Portfolio */
+.porfolio_items  .readmore, #kaya_portfolio_widget_slider .readmore{
+	  border-radius: 3px !important;
+    display: table;
+    margin: 20px 0 0;
+    padding: 5px 10px;
+	}
+ .promobox_content .readmore, .video_inner_text .readmore, #parallax_single_image .readmore{
+  margin-top: 35px;
+  z-index: 0!important;
+	}
+	.more-link, .dropcap .readmore{
+    display: table;
+    margin-top: 20px;
+}
+.readmore.blog_read_more {
+    display: table;
+    margin-top: 20px;
+}

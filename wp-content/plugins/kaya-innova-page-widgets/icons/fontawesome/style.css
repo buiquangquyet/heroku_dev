@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'fontawesome';
+	src:url('font/fontawesome-webfont.eot?map0iz');
+	src:url('font/fontawesome-webfont.eot?#iefixmap0iz') format('embedded-opentype'),
+	url('font/fontawesome-webfont.woff?map0iz') format('woff'),
+	url('font/fontawesome-webfont.ttf?map0iz') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.kaya-fontawesome {
+	font-family: 'fontawesome';
+	display: inline-block;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.kaya-fontawesome[data-icon]:before {
+	content: attr(data-icon);
+}

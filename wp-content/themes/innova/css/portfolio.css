@@ -1,0 +1,182 @@
+/* Portfolio single page next previous navigation */
+.meta-nav-prev {
+background-color: #26CCBE;
+    background-image: url("../images/portfolio_next.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    float: right;
+    height: 12px;
+    padding: 10px;
+    width: 12px;
+}
+.meta-nav-next{
+    background-color: #26CCBE;
+    background-image: url("../images/portfolio_prev.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    float: right;
+    height: 12px;
+    padding: 10px;
+    right: 0;
+    width: 12px;
+}
+.meta-nav-next:hover, .meta-nav-prev:hover{
+    opacity:.7
+}
+.nav_next_item{
+    float:left;
+}
+.single_img ul, ul.porfolio_items {
+    list-style:none!important;
+    margin-left:0px;
+        z-index: 0;
+        margin-bottom: 0;
+}
+#singlepage_nav{
+    bottom: 50%;
+    display: block;
+   margin: 0 auto -15px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    width: 70px;
+    z-index: 99;
+}
+.single_img{
+    margin-bottom: 10px;
+}
+.single_img .isotope_gallery  li, .single_img .grid_gallery li{
+    background-color:#FB4400 ;
+    margin-right:3px;
+    margin-bottom:3px;
+    float:left;
+    display:inline-block;
+}
+
+/* Portfolio single page isotop gallery and lit images */
+.listimg li{
+    margin-bottom:3px;
+}
+.single_img img{
+    display:block;
+}
+
+.isotope_gallery li, .single_img .grid_gallery li{
+    width:32.8%;
+}
+
+.portfolio_fullwidth{
+    margin-top:25px;
+
+}
+.bx-wrapper .slider li{
+    min-height:150px;
+}
+
+/* Related Post */
+#relatedposts ul{
+    margin-top:25px;
+}
+#relatedposts ul li{
+    display: block!important;
+} 
+#relatedposts h3:after {
+    background-color: #333333;
+    content: " ";
+    display: table;
+    height: 1px;
+    opacity: 0.5;
+    position: absolute;
+    width: 50px;
+    margin-top: 10px;
+}
+#relatedposts h3{
+    position: relative;
+}
+
+/* single page portfolio skills */
+ul.project_skills{
+    margin: 0px;
+    margin-top: 20px;
+}
+.project_skills li {
+    background-color: #FA3C02;
+    border-radius: 3px;
+    color: #FFFFFF;
+    list-style: none outside none;
+    margin: 5px 0;
+    padding: 5px 10px;
+    display: table;
+    padding-right: 30px;
+}
+.project_skills li:before {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    content: " ";
+    display: block;
+    float: left;
+    margin-right: 12px;
+    margin-top: 2px;
+    padding: 6px;
+}
+.project_skills li:nth-child(odd) { background:#0494c6; }
+.project_skills li:nth-child(even) { background:#FA3C02; }
+.portfolio_single_image{
+    margin:0px auto;
+    display:block;
+}
+
+/* portfolio page template */
+.portfolio-container
+{
+    position: relative;
+}
+.pf_item_wrapper{
+
+ position: absolute;
+ bottom: 0px;
+ display: none;
+ width: 92%;
+ padding:2% 4%;
+ background-image:url(../images/portfolio_bg_img.png);
+ background-repeat:repeat;
+}
+
+.portfolio-container img
+{
+    display:block;
+}
+
+.portfolio-container p
+{
+    font-size: 12px;
+}
+.widget_kaya-portfolio-widget p{
+  padding-bottom: 0px;
+
+ }
+ .pf_title_gap{
+  height: 20px;
+  display: block;
+  clear: both;
+ }
+
+.pf_item_box{
+  background-color: #323232;
+  padding: 25px;
+  border-top: 8px solid rgba(255,255,255,.3);
+}
+.pf_item_box div{
+    position:relative;
+    top:0px;
+    z-index:100;
+}
+.pf_item_box h4{
+  line-height: 120%;
+  font-size: 18px; 
+
+}
+.pf_item_box span{
+  opacity: .5;
+}

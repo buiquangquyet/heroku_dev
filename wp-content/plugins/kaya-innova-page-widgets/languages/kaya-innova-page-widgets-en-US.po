@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: innova\n"
+"POT-Creation-Date: 2014-10-14 13:19+0530\n"
+"PO-Revision-Date: 2014-10-14 13:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../kaya_widgets.php:19
+msgid "Innova-Portfolio (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:20
+msgid "Displays all portfolio items in grid style"
+msgstr ""
+
+#: ../kaya_widgets.php:27 ../kaya_widgets.php:249 ../kaya_widgets.php:657
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../kaya_widgets.php:28
+msgid "Portfolio description"
+msgstr ""
+
+#: ../kaya_widgets.php:30 ../kaya_widgets.php:441 ../kaya_widgets.php:659
+#: ../kaya_widgets.php:1604 ../kaya_widgets.php:1692 ../kaya_widgets.php:2441
+#: ../kaya_widgets.php:2536
+msgid "Read More"
+msgstr ""
+
+#: ../kaya_widgets.php:31 ../kaya_widgets.php:252 ../kaya_widgets.php:442
+#: ../kaya_widgets.php:660 ../kaya_widgets.php:858 ../kaya_widgets.php:887
+#: ../kaya_widgets.php:1282
+msgid "center"
+msgstr ""
+
+#: ../kaya_widgets.php:35 ../kaya_widgets.php:256 ../kaya_widgets.php:989
+#: ../kaya_widgets.php:1081
+msgid "false"
+msgstr ""
+
+#: ../kaya_widgets.php:38 ../kaya_widgets.php:259 ../kaya_widgets.php:451
+#: ../kaya_widgets.php:672
+msgid "menu_order"
+msgstr ""
+
+#: ../kaya_widgets.php:39 ../kaya_widgets.php:260
+msgid "DESC"
+msgstr ""
+
+#: ../kaya_widgets.php:116
+msgid "All"
+msgstr ""
+
+#: ../kaya_widgets.php:250 ../kaya_widgets.php:1276
+msgid "Add Description Here"
+msgstr ""
+
+#: ../kaya_widgets.php:296 ../kaya_widgets.php:379 ../kaya_widgets.php:708
+#: ../kaya_widgets.php:790 ../kaya_widgets.php:892 ../kaya_widgets.php:1331
+#: ../kaya_widgets.php:1491 ../kaya_widgets.php:1712 ../kaya_widgets.php:2012
+#: ../kaya_widgets.php:2556
+msgid "Title"
+msgstr ""
+
+#: ../kaya_widgets.php:300
+msgid "Title Color Ex: #333333"
+msgstr ""
+
+#: ../kaya_widgets.php:304 ../kaya_widgets.php:1339 ../kaya_widgets.php:1499
+msgid "Description"
+msgstr ""
+
+#: ../kaya_widgets.php:309
+msgid "description Color Ex: #666666"
+msgstr ""
+
+#: ../kaya_widgets.php:314
+msgid "Title / Filters Tabs Position"
+msgstr ""
+
+#: ../kaya_widgets.php:317 ../kaya_widgets.php:923 ../kaya_widgets.php:1728
+msgid " Left"
+msgstr ""
+
+#: ../kaya_widgets.php:319 ../kaya_widgets.php:1731
+msgid " Right"
+msgstr ""
+
+#: ../kaya_widgets.php:321 ../kaya_widgets.php:927 ../kaya_widgets.php:1734
+msgid " Center"
+msgstr ""
+
+#: ../kaya_widgets.php:325 ../kaya_widgets.php:743
+msgid "Enter Portfolio Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:327 ../kaya_widgets.php:745 ../kaya_widgets.php:751
+#: ../kaya_widgets.php:1089 ../kaya_widgets.php:1742 ../kaya_widgets.php:1999
+#: ../kaya_widgets.php:2545
+msgid "Available Categories and IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:328 ../kaya_widgets.php:746 ../kaya_widgets.php:752
+#: ../kaya_widgets.php:1090 ../kaya_widgets.php:1743 ../kaya_widgets.php:2000
+#: ../kaya_widgets.php:2546
+msgid "Note:"
+msgstr ""
+
+#: ../kaya_widgets.php:328 ../kaya_widgets.php:746 ../kaya_widgets.php:752
+#: ../kaya_widgets.php:1090 ../kaya_widgets.php:1743 ../kaya_widgets.php:2000
+#: ../kaya_widgets.php:2546
+msgid "Separate IDs with commas only"
+msgstr ""
+
+#: ../kaya_widgets.php:332
+msgid "Portfolio Filter Tabs"
+msgstr ""
+
+#: ../kaya_widgets.php:335 ../kaya_widgets.php:777 ../kaya_widgets.php:1102
+#: ../kaya_widgets.php:1147 ../kaya_widgets.php:1373
+msgid "False"
+msgstr ""
+
+#: ../kaya_widgets.php:337 ../kaya_widgets.php:774 ../kaya_widgets.php:1099
+#: ../kaya_widgets.php:1144 ../kaya_widgets.php:1371
+msgid "True"
+msgstr ""
+
+#: ../kaya_widgets.php:341
+msgid "Filter Tab BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:345
+msgid "Filter Tab Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:349
+msgid "Filter Tab Acive BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:353
+msgid "Filter Tab Active Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:357
+msgid "Select Columns"
+msgstr ""
+
+#: ../kaya_widgets.php:360
+msgid "Column4"
+msgstr ""
+
+#: ../kaya_widgets.php:362
+msgid "Column3"
+msgstr ""
+
+#: ../kaya_widgets.php:364
+msgid "Column2"
+msgstr ""
+
+#: ../kaya_widgets.php:368
+msgid "Fullwidth Portfolio Gallery"
+msgstr ""
+
+#: ../kaya_widgets.php:372 ../kaya_widgets.php:783 ../kaya_widgets.php:2005
+#: ../kaya_widgets.php:2549
+msgid "Orderby"
+msgstr ""
+
+#: ../kaya_widgets.php:375 ../kaya_widgets.php:786 ../kaya_widgets.php:2008
+#: ../kaya_widgets.php:2552
+msgid "Date"
+msgstr ""
+
+#: ../kaya_widgets.php:377 ../kaya_widgets.php:788 ../kaya_widgets.php:2010
+#: ../kaya_widgets.php:2554
+msgid "Menu Order"
+msgstr ""
+
+#: ../kaya_widgets.php:381 ../kaya_widgets.php:792 ../kaya_widgets.php:2014
+#: ../kaya_widgets.php:2558
+msgid "Random"
+msgstr ""
+
+#: ../kaya_widgets.php:383 ../kaya_widgets.php:794 ../kaya_widgets.php:2016
+#: ../kaya_widgets.php:2560
+msgid "Author"
+msgstr ""
+
+#: ../kaya_widgets.php:387 ../kaya_widgets.php:798 ../kaya_widgets.php:2020
+#: ../kaya_widgets.php:2564
+msgid "Order"
+msgstr ""
+
+#: ../kaya_widgets.php:390 ../kaya_widgets.php:801 ../kaya_widgets.php:2023
+#: ../kaya_widgets.php:2569
+msgid "Ascending"
+msgstr ""
+
+#: ../kaya_widgets.php:392 ../kaya_widgets.php:803 ../kaya_widgets.php:2025
+#: ../kaya_widgets.php:2567
+msgid "Descending"
+msgstr ""
+
+#: ../kaya_widgets.php:396
+msgid "Item Thumbnail Height Ex: 400"
+msgstr ""
+
+#: ../kaya_widgets.php:401
+msgid "Display Number of Images"
+msgstr ""
+
+#: ../kaya_widgets.php:406 ../kaya_widgets.php:2597
+msgid "Disable Pagination"
+msgstr ""
+
+#: ../kaya_widgets.php:411 ../kaya_widgets.php:823
+msgid "Disable Title"
+msgstr ""
+
+#: ../kaya_widgets.php:416
+msgid "Disable Category"
+msgstr ""
+
+#: ../kaya_widgets.php:420 ../kaya_widgets.php:831
+msgid "Popular Posts"
+msgstr ""
+
+#: ../kaya_widgets.php:431
+msgid "Innova-Draggable Slider (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:432
+msgid "Displays portfolio and kaya slider items as draggable slider"
+msgstr ""
+
+#: ../kaya_widgets.php:439
+msgid "Portfolio Slider Title"
+msgstr ""
+
+#: ../kaya_widgets.php:452 ../kaya_widgets.php:673
+msgid "ASC"
+msgstr ""
+
+#: ../kaya_widgets.php:455 ../kaya_widgets.php:676 ../kaya_widgets.php:990
+#: ../kaya_widgets.php:1082
+msgid "true"
+msgstr ""
+
+#: ../kaya_widgets.php:658
+msgid "Enter Title Description here"
+msgstr ""
+
+#: ../kaya_widgets.php:712 ../kaya_widgets.php:897 ../kaya_widgets.php:1335
+#: ../kaya_widgets.php:1495 ../kaya_widgets.php:1718
+msgid "Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:716 ../kaya_widgets.php:902
+msgid "Title Description"
+msgstr ""
+
+#: ../kaya_widgets.php:720
+msgid "description Color"
+msgstr ""
+
+#: ../kaya_widgets.php:724 ../kaya_widgets.php:920 ../kaya_widgets.php:1724
+msgid "Title Position"
+msgstr ""
+
+#: ../kaya_widgets.php:727
+msgid "Title Left"
+msgstr ""
+
+#: ../kaya_widgets.php:729
+msgid "Title Right"
+msgstr ""
+
+#: ../kaya_widgets.php:731
+msgid "Title Center"
+msgstr ""
+
+#: ../kaya_widgets.php:735
+msgid "Select Slider Category : "
+msgstr ""
+
+#: ../kaya_widgets.php:737
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../kaya_widgets.php:739
+msgid "Kaya Slider Category"
+msgstr ""
+
+#: ../kaya_widgets.php:749 ../kaya_widgets.php:1087
+msgid "Enter Kaya Slider Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:754
+msgid "Display Items"
+msgstr ""
+
+#: ../kaya_widgets.php:757
+msgid "1 Item"
+msgstr ""
+
+#: ../kaya_widgets.php:759
+msgid "2 Items"
+msgstr ""
+
+#: ../kaya_widgets.php:761
+msgid "3 Items"
+msgstr ""
+
+#: ../kaya_widgets.php:763
+msgid "4 Items"
+msgstr ""
+
+#: ../kaya_widgets.php:765
+msgid "5 Items"
+msgstr ""
+
+#: ../kaya_widgets.php:770 ../kaya_widgets.php:1095
+msgid "Auto Play"
+msgstr ""
+
+#: ../kaya_widgets.php:807
+msgid "Full Width Slider"
+msgstr ""
+
+#: ../kaya_widgets.php:811
+msgid "Slider Item Thumbnail Height Ex: 400"
+msgstr ""
+
+#: ../kaya_widgets.php:815
+msgid "Disable Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:819
+msgid "Disable Category Name"
+msgstr ""
+
+#: ../kaya_widgets.php:827 ../kaya_widgets.php:1765
+msgid "Disable Description"
+msgstr ""
+
+#: ../kaya_widgets.php:846
+msgid "Innova-Custom Title (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:847
+msgid "Use this widget to add custom title to the blocks with description"
+msgstr ""
+
+#: ../kaya_widgets.php:854
+msgid "Add Custom Title"
+msgstr ""
+
+#: ../kaya_widgets.php:883
+msgid "Custom Title"
+msgstr ""
+
+#: ../kaya_widgets.php:884
+msgid "Add Custom Title Description"
+msgstr ""
+
+#: ../kaya_widgets.php:907 ../kaya_widgets.php:916 ../kaya_widgets.php:1343
+#: ../kaya_widgets.php:1504
+msgid "Description Color"
+msgstr ""
+
+#: ../kaya_widgets.php:925 ../kaya_widgets.php:2351
+msgid "Right"
+msgstr ""
+
+#: ../kaya_widgets.php:938
+msgid "Innova-Vertical Space (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:939
+msgid "Use this widget to add vertical height in between block rows"
+msgstr ""
+
+#: ../kaya_widgets.php:961
+msgid "Height"
+msgstr ""
+
+#: ../kaya_widgets.php:974
+msgid "Innova-Slider (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:975
+msgid "Displays slider from Kaya slider category"
+msgstr ""
+
+#: ../kaya_widgets.php:982 ../kaya_widgets.php:1074
+msgid "slide"
+msgstr ""
+
+#: ../kaya_widgets.php:984 ../kaya_widgets.php:1076
+msgid "swing"
+msgstr ""
+
+#: ../kaya_widgets.php:1108
+msgid "Slide Transition Effect"
+msgstr ""
+
+#: ../kaya_widgets.php:1112
+msgid "Horizontal"
+msgstr ""
+
+#: ../kaya_widgets.php:1115
+msgid "Vertical"
+msgstr ""
+
+#: ../kaya_widgets.php:1118
+msgid "Fade"
+msgstr ""
+
+#: ../kaya_widgets.php:1124
+msgid "Slide Easing Effect"
+msgstr ""
+
+#: ../kaya_widgets.php:1128
+msgid ""
+"Enter easing effect Ex:linear, swing,easeOutElastic <br> for more transition "
+"effects  <a href='http://jqueryui.com/resources/demos/effect/easing.html' "
+"target='_blank'>  click here   </a>"
+msgstr ""
+
+#: ../kaya_widgets.php:1131
+msgid "Slide Pause Time"
+msgstr ""
+
+#: ../kaya_widgets.php:1135
+msgid "The amount of time (in ms) between each auto transition , Ex: 4000"
+msgstr ""
+
+#: ../kaya_widgets.php:1140
+msgid "Auto Height"
+msgstr ""
+
+#: ../kaya_widgets.php:1153
+msgid "Slider Width (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1159
+msgid "Slider Height (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1163
+msgid "Ex: 400<br /> Note: It works only when auto height is false"
+msgstr ""
+
+#: ../kaya_widgets.php:1174
+msgid "Innova-Dropcap (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:1175
+msgid "Use this widget to create drop cap with text or Font Awesome icons"
+msgstr ""
+
+#: ../kaya_widgets.php:1182 ../kaya_widgets.php:1273
+msgid "Dropcap Title"
+msgstr ""
+
+#: ../kaya_widgets.php:1195 ../kaya_widgets.php:1286
+msgid "none"
+msgstr ""
+
+#: ../kaya_widgets.php:1294
+msgid "Awesome Icon Name"
+msgstr ""
+
+#: ../kaya_widgets.php:1296
+msgid "Ex: fa-home, for More Awesome icons click"
+msgstr ""
+
+#: ../kaya_widgets.php:1299
+msgid "Enter Dropcap Text"
+msgstr ""
+
+#: ../kaya_widgets.php:1301
+msgid ""
+"Ex: A  <stong> Note: </strong>It Works only when above icon name field is "
+"empty "
+msgstr ""
+
+#: ../kaya_widgets.php:1304
+msgid "Dropcap Size"
+msgstr ""
+
+#: ../kaya_widgets.php:1314
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1318
+msgid "Dropcap Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1322
+msgid "Dropcap Border Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1326
+msgid "Dropcap Border Radius ( % )"
+msgstr ""
+
+#: ../kaya_widgets.php:1328
+msgid "Ex:10,20 <stont> Note: </stong>It applies only percentage(%)"
+msgstr ""
+
+#: ../kaya_widgets.php:1347 ../kaya_widgets.php:1508 ../kaya_widgets.php:2577
+msgid "Readmore Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:1349
+msgid "<stong>Note: </strong>Keep it empty to not display the readmore button "
+msgstr ""
+
+#: ../kaya_widgets.php:1352
+msgid "Readmore Button Link"
+msgstr ""
+
+#: ../kaya_widgets.php:1354
+msgid "Ex:http://www.google.coms"
+msgstr ""
+
+#: ../kaya_widgets.php:1357
+msgid "Dropcap Position"
+msgstr ""
+
+#: ../kaya_widgets.php:1360 ../kaya_widgets.php:1519
+msgid "Position Left"
+msgstr ""
+
+#: ../kaya_widgets.php:1362 ../kaya_widgets.php:1521
+msgid "Position Right"
+msgstr ""
+
+#: ../kaya_widgets.php:1364 ../kaya_widgets.php:1523
+msgid "Position Center"
+msgstr ""
+
+#: ../kaya_widgets.php:1368
+msgid "Text Wrapping"
+msgstr ""
+
+#: ../kaya_widgets.php:1390
+msgid "Innova-Image Box (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:1391
+msgid "Displays image boxes"
+msgstr ""
+
+#: ../kaya_widgets.php:1398
+msgid "Enter Title Here"
+msgstr ""
+
+#: ../kaya_widgets.php:1400
+msgid "Enter Description Here"
+msgstr ""
+
+#: ../kaya_widgets.php:1441
+msgid "Image Title"
+msgstr ""
+
+#: ../kaya_widgets.php:1442
+msgid "Enter Image Block Description here."
+msgstr ""
+
+#: ../kaya_widgets.php:1457
+msgid "Upload Image"
+msgstr ""
+
+#: ../kaya_widgets.php:1481
+msgid "Image Width (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1486
+msgid "Image Height (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1512
+msgid "Image Link"
+msgstr ""
+
+#: ../kaya_widgets.php:1516
+msgid "Image Position"
+msgstr ""
+
+#: ../kaya_widgets.php:1525
+msgid "None"
+msgstr ""
+
+#: ../kaya_widgets.php:1535
+msgid "Innova-Skillbar (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:1536
+msgid "Use this widget to add bar type skills"
+msgstr ""
+
+#: ../kaya_widgets.php:1543 ../kaya_widgets.php:1561
+msgid "PHP"
+msgstr ""
+
+#: ../kaya_widgets.php:1567
+msgid "Skillbar Title"
+msgstr ""
+
+#: ../kaya_widgets.php:1571
+msgid "Skillbar Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1575
+msgid "Skillbar Width"
+msgstr ""
+
+#: ../kaya_widgets.php:1579
+msgid "Skillbar Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1593
+msgid "Innova Latest News"
+msgstr ""
+
+#: ../kaya_widgets.php:1594
+msgid "Display Latest News from post category"
+msgstr ""
+
+#: ../kaya_widgets.php:1601 ../kaya_widgets.php:1689
+msgid "Recent From Blog"
+msgstr ""
+
+#: ../kaya_widgets.php:1605 ../kaya_widgets.php:1693 ../kaya_widgets.php:2268
+#: ../kaya_widgets.php:2304
+msgid "left"
+msgstr ""
+
+#: ../kaya_widgets.php:1666
+msgid "0 Comments"
+msgstr ""
+
+#: ../kaya_widgets.php:1666
+msgid "1 Comment"
+msgstr ""
+
+#: ../kaya_widgets.php:1666
+msgid "% Comments"
+msgstr ""
+
+#: ../kaya_widgets.php:1739
+msgid "Select Blog Category"
+msgstr ""
+
+#: ../kaya_widgets.php:1747
+msgid "Display Number of Posts"
+msgstr ""
+
+#: ../kaya_widgets.php:1753
+msgid "Posts Content Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:1759
+msgid "Disable Date"
+msgstr ""
+
+#: ../kaya_widgets.php:1771
+msgid "Disable Comment"
+msgstr ""
+
+#: ../kaya_widgets.php:1777
+msgid "Posts Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1783
+msgid "Posts Date Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1789
+msgid "Posts Description Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1795
+msgid "Posts Comment Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1808
+msgid "Add Toggle tabs and Accordion widge"
+msgstr ""
+
+#: ../kaya_widgets.php:1815 ../kaya_widgets.php:1945
+msgid "horizontal"
+msgstr ""
+
+#: ../kaya_widgets.php:1975
+msgid "Select Type"
+msgstr ""
+
+#: ../kaya_widgets.php:1978
+msgid "Accordion"
+msgstr ""
+
+#: ../kaya_widgets.php:1980
+msgid "Tabs"
+msgstr ""
+
+#: ../kaya_widgets.php:1982
+msgid "Toggle "
+msgstr ""
+
+#: ../kaya_widgets.php:1986
+msgid "Select Tabs Type"
+msgstr ""
+
+#: ../kaya_widgets.php:1989
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: ../kaya_widgets.php:1991
+msgid "Vertical Tabs"
+msgstr ""
+
+#: ../kaya_widgets.php:1997
+msgid "Enter Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:2029
+msgid "Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:2033
+msgid "Tabs Bg Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2037
+msgid "Tabs Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2041
+msgid "Tabs Content BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2045
+msgid "Tabs Content Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2049
+msgid "Tabs Content Link Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2053
+msgid "Tabs Border Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2064
+msgid "Innova Pricing Table"
+msgstr ""
+
+#: ../kaya_widgets.php:2065
+msgid "Pricing Table "
+msgstr ""
+
+#: ../kaya_widgets.php:2070
+msgid "<ul><li>Price Text-1</li><li>Price Text-2</li></ul>"
+msgstr ""
+
+#: ../kaya_widgets.php:2071 ../kaya_widgets.php:2122
+msgid "Price Title"
+msgstr ""
+
+#: ../kaya_widgets.php:2073 ../kaya_widgets.php:2124
+msgid "Per Month"
+msgstr ""
+
+#: ../kaya_widgets.php:2074 ../kaya_widgets.php:2125
+msgid "Signup"
+msgstr ""
+
+#: ../kaya_widgets.php:2121
+msgid "<ul><li>Price List-1</li><li>Price List-2</li></ul>"
+msgstr ""
+
+#: ../kaya_widgets.php:2136
+msgid "Pricing Title"
+msgstr ""
+
+#: ../kaya_widgets.php:2138
+msgid "Ex:Basic, Premium, Standard"
+msgstr ""
+
+#: ../kaya_widgets.php:2141
+msgid "Price"
+msgstr ""
+
+#: ../kaya_widgets.php:2143
+msgid "Ex:$45, $61.5"
+msgstr ""
+
+#: ../kaya_widgets.php:2146
+msgid "Price Description"
+msgstr ""
+
+#: ../kaya_widgets.php:2148
+msgid "Ex:Per Month, Per Year"
+msgstr ""
+
+#: ../kaya_widgets.php:2151
+msgid "Pricing Content"
+msgstr ""
+
+#: ../kaya_widgets.php:2153
+msgid "Note: Pricing content add ul li only"
+msgstr ""
+
+#: ../kaya_widgets.php:2156
+msgid "Signup Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:2158
+msgid "Ex: Signup"
+msgstr ""
+
+#: ../kaya_widgets.php:2161
+msgid "Signup Button Link"
+msgstr ""
+
+#: ../kaya_widgets.php:2163
+msgid "Ex: http://www.google.com"
+msgstr ""
+
+#: ../kaya_widgets.php:2166
+msgid "Pricing Box BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2168
+msgid "Ex: #FF9D01"
+msgstr ""
+
+#: ../kaya_widgets.php:2171
+msgid "Pricing Box Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2173
+msgid "Ex: #ffffff"
+msgstr ""
+
+#: ../kaya_widgets.php:2176
+msgid "Price Content Odd BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2178
+msgid "Ex: #F8F7DC "
+msgstr ""
+
+#: ../kaya_widgets.php:2181
+msgid "Price Content Odd Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2183 ../kaya_widgets.php:2193
+msgid "Ex: #333333 "
+msgstr ""
+
+#: ../kaya_widgets.php:2186
+msgid "Price Content Even BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2188
+msgid "Ex: #ffffff "
+msgstr ""
+
+#: ../kaya_widgets.php:2191
+msgid "Price Content Even Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2204
+msgid "Innova-Info Boxes (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:2206
+msgid "Info boxes"
+msgstr ""
+
+#: ../kaya_widgets.php:2211 ../kaya_widgets.php:2224
+msgid "success"
+msgstr ""
+
+#: ../kaya_widgets.php:2229
+msgid "Info Box Type"
+msgstr ""
+
+#: ../kaya_widgets.php:2232
+msgid "Success"
+msgstr ""
+
+#: ../kaya_widgets.php:2234
+msgid "Info"
+msgstr ""
+
+#: ../kaya_widgets.php:2236
+msgid "Warning"
+msgstr ""
+
+#: ../kaya_widgets.php:2238
+msgid "Error"
+msgstr ""
+
+#: ../kaya_widgets.php:2242
+msgid "Info Box Content"
+msgstr ""
+
+#: ../kaya_widgets.php:2253
+msgid "Innova - Button "
+msgstr ""
+
+#: ../kaya_widgets.php:2254
+msgid "Displays Readmore Butoom where ever you want"
+msgstr ""
+
+#: ../kaya_widgets.php:2262 ../kaya_widgets.php:2298
+msgid "Readmore"
+msgstr ""
+
+#: ../kaya_widgets.php:2311
+msgid "Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:2317
+msgid "Destination URL"
+msgstr ""
+
+#: ../kaya_widgets.php:2323
+msgid "Button BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2329
+msgid "Button Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2335
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2341
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2346
+msgid "Button Alignment"
+msgstr ""
+
+#: ../kaya_widgets.php:2349
+msgid "Left"
+msgstr ""
+
+#: ../kaya_widgets.php:2353
+msgid "Center"
+msgstr ""
+
+#: ../kaya_widgets.php:2357
+msgid "Open In New Window"
+msgstr ""
+
+#: ../kaya_widgets.php:2369
+msgid "Innova-Contact Form"
+msgstr ""
+
+#: ../kaya_widgets.php:2370
+msgid "Display contact form"
+msgstr ""
+
+#: ../kaya_widgets.php:2375 ../kaya_widgets.php:2401
+msgid "Mail Us"
+msgstr ""
+
+#: ../kaya_widgets.php:2376 ../kaya_widgets.php:2402
+msgid "Clear"
+msgstr ""
+
+#: ../kaya_widgets.php:2377 ../kaya_widgets.php:2403
+msgid "yourdomain@gmail.com"
+msgstr ""
+
+#: ../kaya_widgets.php:2386
+msgid "Name"
+msgstr ""
+
+#: ../kaya_widgets.php:2387
+msgid "Email"
+msgstr ""
+
+#: ../kaya_widgets.php:2388
+msgid "Subject"
+msgstr ""
+
+#: ../kaya_widgets.php:2389
+msgid "Your Message"
+msgstr ""
+
+#: ../kaya_widgets.php:2407
+msgid "Email Id"
+msgstr ""
+
+#: ../kaya_widgets.php:2411
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:2415
+msgid "Clear Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:2424
+msgid "Innova-Blog (PB)"
+msgstr ""
+
+#: ../kaya_widgets.php:2425
+msgid "Use this widget to create blog page"
+msgstr ""
+
+#: ../kaya_widgets.php:2483
+msgid "0"
+msgstr ""
+
+#: ../kaya_widgets.php:2483
+msgid "1"
+msgstr ""
+
+#: ../kaya_widgets.php:2483
+msgid "%"
+msgstr ""
+
+#: ../kaya_widgets.php:2542
+msgid "Enter Blog Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:2573
+msgid "Post Content Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:2581
+msgid "Display Posts Per Page"
+msgstr ""
+
+#: ../kaya_widgets.php:2585
+msgid "Posts Content Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2589
+msgid "Posts Link Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2593
+msgid "Posts Link Hover Color"
+msgstr ""
+
+#: ../sendEmail.php:29
+msgid ""
+"We've received We've received your email. We'll be in touch with you as soon "
+"as possible!"
+msgstr ""

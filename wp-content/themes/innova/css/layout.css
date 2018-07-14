@@ -1,0 +1,184 @@
+#box_layout{
+	display:block;
+	max-width:1160px;
+	width:95%;	
+	position:relative;
+	margin:0px auto!important;
+}
+
+.container, .woocommerce-page #woocommerce-conainer{
+	margin:0px  auto;
+	padding:0px 30px;
+	width:1100px;
+	position:relative;
+	display:block;
+}
+
+.container:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+}
+#fluid_layout{
+    margin: 0 auto;
+    width:100%!important;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	float:left;
+	clear:both;
+}
+#mid_container_wrapper{
+	width:100%;
+	float:left;
+	clear:both;
+	padding-bottom: 0px;
+	min-height:527px;
+	background-color: #ffffff;
+
+}
+
+#mid_container {
+	padding:50px 0px;
+}
+#video_wrapper{
+	 height: 100%;
+    min-height: 100%;
+}
+#box_layout #mid_container_wrapper{
+	  overflow: hidden;
+}
+
+/* WooCommerce container*/
+
+
+/* Columns shortcode
+----------------------------------------------------------------------------------------------------*/
+.fullwidth{
+	width:100%;
+	float:left;
+}
+.home .fullwidth{
+	margin-bottom:0px!important;
+}
+.one_half{
+	width:48.10%;
+	float:left;
+	margin-right:3.80%;
+}
+.one_half_last{
+	width:48.10%;
+	float:right;
+}
+.one_third{
+	width:30.70%;
+	float:left;
+	margin-right:3.80%;
+
+}
+.one_third_last{
+	width:30.70%;
+	float:right;
+}
+.one_third_last:after{
+clear:both;
+}
+.two_third{
+	width:65.40%;
+	float:left;
+	margin-right:3.80%;
+}
+.two_third_last{
+	width:65.20%;
+	float:right;
+	display: table-cell;
+}
+.one_fourth{
+	width:22.15%;
+	float:left;
+	margin-right:3.80%;
+
+}
+.one_fourth_last{
+	width:22.15%;
+	float:right;
+
+}
+.two_fourth{
+	width:48.10%;
+	float:left;
+	margin-right:3.80%;
+}
+.three_fourth{
+	width:74.05%;
+	float:left;
+	margin-right:3.80%;
+}
+.three_fourth_last{
+	width:74.05%;
+	float:right;
+}
+.one_fifth{
+	width:16.96%;
+	float:left;
+	margin-right:3.80%;
+	margin-bottom: 30px;
+}
+.one_fifth_last{
+	width:16.96%;
+	float:right;
+	margin-bottom: 30px;
+}
+.two_fifth{
+	width:33.92%;
+	float:left;
+	margin-right:3.80%;
+	margin-bottom: 30px;
+}
+.three_fifth{
+	width:58.48%;
+	float:left;
+	margin-right:3.80%;
+	margin-bottom: 30px;
+}
+.four_fifth{
+	width:79.240%;
+	float:left;
+	margin-right:3.80%;
+	margin-bottom: 30px;
+}
+.four_fifth_last{
+	width:79.240%;
+	float:right;
+	margin-bottom: 30px;
+}
+* html .clearfix {
+
+} /* IE6 */
+
+
+*:first-child+html .clearfix {
+
+} /* IE7 */
+
+/* clearfix */
+.clear{
+	clear:both;
+	display:block;
+	height:0px;
+	width:100%;
+	visibility:hidden;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.last{
+	margin-right:0px !important;
+	float:right !important;
+}
