@@ -26,6 +26,7 @@ require_once dirname( __FILE__ ) . '/widgets/class-wc-widget-rating-filter.php';
 require_once dirname( __FILE__ ) . '/widgets/class-wc-widget-recent-reviews.php';
 require_once dirname( __FILE__ ) . '/widgets/class-wc-widget-recently-viewed.php';
 require_once dirname( __FILE__ ) . '/widgets/class-wc-widget-top-rated-products.php';
+require_once dirname( __FILE__ ) . '/widgets/class-wc-widget-test.php';
 
 /**
  * Register Widgets.
@@ -42,6 +43,7 @@ function wc_register_widgets() {
 	register_widget( 'WC_Widget_Product_Tag_Cloud' );
 	register_widget( 'WC_Widget_Products' );
 	register_widget( 'WC_Widget_Recently_Viewed' );
+    register_widget( 'WC_Widget_Tests');
 
 	if ( 'yes' === get_option( 'woocommerce_enable_reviews', 'yes' ) ) {
 		register_widget( 'WC_Widget_Top_Rated_Products' );
