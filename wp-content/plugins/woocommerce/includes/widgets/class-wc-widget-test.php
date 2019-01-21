@@ -200,7 +200,7 @@ class WC_Widget_Tests extends WC_Widget {
 
             while ( $Tests->have_posts() ) {
                 $Tests->the_post();
-                wc_get_template( 'content-widget-product.php', $template_args );
+                wc_get_template( 'content-widget-tests-product.php', $template_args );
             }
 
             echo wp_kses_post( apply_filters( 'woocommerce_after_widget_product_list', '</ul>' ) );

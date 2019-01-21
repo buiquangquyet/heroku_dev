@@ -11,10 +11,11 @@ function kaya_jquery_scripts()
 	//wp_enqueue_script('theme-customizer', KAYA_THEME_JS .'/theme-customizer.js',array(),'', true);
 	wp_enqueue_script('cloud-zoom.1.0.2.min', KAYA_THEME_JS .'/cloud-zoom.1.0.2.min.js',array(),'', true);// Bx Slider js
    if( class_exists('woocommerce') ){
-		wp_enqueue_style('css_woocommerce', get_template_directory_uri() .'/css/kaya_woocommerce.css', false, '', 'all'); // Woocommerce
+       wp_enqueue_style('css_woocommerce', get_template_directory_uri() .'/css/kaya_woocommerce.css', false, '', 'all'); // Woocommerce
 	}
 	wp_register_style('css_responsive', get_template_directory_uri() . '/css/responsive.css', true, '3.0', 'all');
 	  $responsive_mode = get_theme_mod( 'responsive_layout_mode' ) ? get_theme_mod( 'responsive_layout_mode' ) : 'on';
+    wp_enqueue_style('css_widget_test', get_template_directory_uri() .'/css/widget_tests.css', false, '', 'all'); // widget_tests
  
 if($responsive_mode == "on"){
 	wp_enqueue_style('css_responsive');

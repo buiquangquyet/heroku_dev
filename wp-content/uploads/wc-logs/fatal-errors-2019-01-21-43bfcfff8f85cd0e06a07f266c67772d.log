@@ -1,0 +1,389 @@
+2019-01-21T06:46:36+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Image...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1643): register_widget('WP_Widget_Image...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#9 {main}
+  thrown
+
+2019-01-21T06:46:57+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Image...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1643): register_widget('WP_Widget_Image...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:46:59+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Image...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1643): register_widget('WP_Widget_Image...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:47:00+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Image...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1643): register_widget('WP_Widget_Image...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:12+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1618): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:13+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1618): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:32+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:32+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:33+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:33+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:34+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:35+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T06:58:35+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:46+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:47+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:48+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:48+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:48+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:49+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:49+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:49+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:50+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:50+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:50+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:50+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
+2019-01-21T07:42:51+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Media_Image_Product' not found in /var/www/wordpress/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Media...')
+#1 /var/www/wordpress/wp-includes/widgets.php(1619): register_widget('WP_Widget_Media...')
+#2 /var/www/wordpress/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/wordpress/wp-settings.php(450): do_action('init')
+#6 /var/www/wordpress/wp-config.php(96): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-load.php(37): require_once('/var/www/wordpr...')
+#8 /var/www/wordpress/wp-admin/admin.php(31): require_once('/var/www/wordpr...')
+#9 /var/www/wordpress/wp-admin/widgets.php(10): require_once('/var/www/wordpr...')
+#10 {main}
+  thrown
+
