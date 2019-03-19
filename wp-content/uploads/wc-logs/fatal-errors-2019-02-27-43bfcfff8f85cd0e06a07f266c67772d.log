@@ -1,0 +1,55 @@
+2019-02-27T03:48:00+00:00 CRITICAL Uncaught Error: Call to undefined function kaya_pagination() in /var/www/wordpress/wp-content/plugins/kaya-innova-page-widgets/inc/widgets/portfolio_widget.php:179
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php(57): innova_Portfolio_Widget->widget(Array, Array)
+#1 /var/www/wordpress/wp-includes/shortcodes.php(319): SiteOrigin_Panels_Widget_Shortcode::shortcode(Array, '<input type="hi...', 'siteorigin_widg...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(siteor...', 'do_shortcode_ta...', '<div id="pl-7" ...')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(286): do_shortcode('<div id="pl-7" ...')
+#5 /var/www/wordpress/wp-includes/plugin.php(203): WP_Hook->apply_filters('<div id="pl-7" ...', Array)
+#6 /var/www/wordpress/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php(996): apply_filters('woocommerce_sho...', '<div id="pl-7" ...')
+#7 /var/www/wordp
+
+2019-02-27T03:48:04+00:00 CRITICAL Uncaught Error: Call to undefined function kaya_pagination() in /var/www/wordpress/wp-content/plugins/kaya-innova-page-widgets/inc/widgets/portfolio_widget.php:179
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php(57): innova_Portfolio_Widget->widget(Array, Array)
+#1 /var/www/wordpress/wp-includes/shortcodes.php(319): SiteOrigin_Panels_Widget_Shortcode::shortcode(Array, '<input type="hi...', 'siteorigin_widg...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(siteor...', 'do_shortcode_ta...', '<div id="pl-7" ...')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(286): do_shortcode('<div id="pl-7" ...')
+#5 /var/www/wordpress/wp-includes/plugin.php(203): WP_Hook->apply_filters('<div id="pl-7" ...', Array)
+#6 /var/www/wordpress/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php(996): apply_filters('woocommerce_sho...', '<div id="pl-7" ...')
+#7 /var/www/wordp
+
+2019-02-27T03:48:06+00:00 CRITICAL Uncaught Error: Call to undefined function kaya_pagination() in /var/www/wordpress/wp-content/plugins/kaya-innova-page-widgets/inc/widgets/portfolio_widget.php:179
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php(57): innova_Portfolio_Widget->widget(Array, Array)
+#1 /var/www/wordpress/wp-includes/shortcodes.php(319): SiteOrigin_Panels_Widget_Shortcode::shortcode(Array, '<input type="hi...', 'siteorigin_widg...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(siteor...', 'do_shortcode_ta...', '<div id="pl-7" ...')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(286): do_shortcode('<div id="pl-7" ...')
+#5 /var/www/wordpress/wp-includes/plugin.php(203): WP_Hook->apply_filters('<div id="pl-7" ...', Array)
+#6 /var/www/wordpress/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php(996): apply_filters('woocommerce_sho...', '<div id="pl-7" ...')
+#7 /var/www/wordp
+
+2019-02-27T03:48:38+00:00 CRITICAL Uncaught Error: Call to undefined function kaya_pagination() in /var/www/wordpress/wp-content/plugins/kaya-innova-page-widgets/inc/widgets/portfolio_widget.php:179
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php(57): innova_Portfolio_Widget->widget(Array, Array)
+#1 /var/www/wordpress/wp-includes/shortcodes.php(319): SiteOrigin_Panels_Widget_Shortcode::shortcode(Array, '<input type="hi...', 'siteorigin_widg...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(siteor...', 'do_shortcode_ta...', '<div id="pl-7" ...')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(286): do_shortcode('<div id="pl-7" ...')
+#5 /var/www/wordpress/wp-includes/plugin.php(203): WP_Hook->apply_filters('<div id="pl-7" ...', Array)
+#6 /var/www/wordpress/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php(996): apply_filters('woocommerce_sho...', '<div id="pl-7" ...')
+#7 /var/www/wordp
+
+2019-02-27T03:48:40+00:00 CRITICAL Uncaught Error: Call to undefined function kaya_pagination() in /var/www/wordpress/wp-content/plugins/kaya-innova-page-widgets/inc/widgets/portfolio_widget.php:179
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php(57): innova_Portfolio_Widget->widget(Array, Array)
+#1 /var/www/wordpress/wp-includes/shortcodes.php(319): SiteOrigin_Panels_Widget_Shortcode::shortcode(Array, '<input type="hi...', 'siteorigin_widg...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(siteor...', 'do_shortcode_ta...', '<div id="pl-7" ...')
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(286): do_shortcode('<div id="pl-7" ...')
+#5 /var/www/wordpress/wp-includes/plugin.php(203): WP_Hook->apply_filters('<div id="pl-7" ...', Array)
+#6 /var/www/wordpress/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php(996): apply_filters('woocommerce_sho...', '<div id="pl-7" ...')
+#7 /var/www/wordp
+
