@@ -1,451 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a12d416e-8fee-4dcd-9343-10daac6703c4" name="Default" comment="dev">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko2.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko2.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko2.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/ca.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/caw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/footer-bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/icon-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/logo/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/logo/logo-inverse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/logo/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/logo/vc-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/noice-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/page-title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/placeholder.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/1columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/2-3columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/2columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/3columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/4columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/5column.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/5columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/6columns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/footer-layout-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/footer-layout-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/footer-layout-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/footer-layout-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/header-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/layout-boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/layout-float.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/layout-wide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/pattern-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/product1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/product2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/sidebar-both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/sidebar-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/sidebar-none.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/sidebar-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/single-thumb1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/single-thumb2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/single-thumb3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/images/theme-options/single-thumb4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/default/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/dokan/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/pages/default/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/pages/electronics/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/rtl/screenshot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/beanie-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/belt-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/cap-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-416x258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-pocket-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-zipper-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/long-sleeve-tee-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/polo-3-416x415.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/sunglasses-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirt-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-416x416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/07/logo-100x64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-416x327.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-100x79.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-324x324.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-416x327.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-100x93.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-324x93.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-100x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-272x182.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-300x137.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-600x274.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1-768x351.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-100x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-272x182.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-300x137.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-600x274.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01-768x351.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-100x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-272x182.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-300x137.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-600x274.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02-768x351.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/TOTO_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo-100x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo-150x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo-272x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo-300x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo-300x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/cropped-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo-100x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo-150x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo-272x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo-300x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo-300x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/02/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/css/fontpiko.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/css/fontpiko.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/css/skin/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/css/skin/default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko2.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/fonts/fontpiko2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/admin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/customizer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/main.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/background-check.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/isotope.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jqplugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.chookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.countdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.debouncedresize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.debouncedresize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.hoverIntent.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.magnific-popup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/jquery.zoom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/nprogress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/nprogress.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/assets/js/plugins/sticky-kit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/dokan/store-reviews.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/dokan/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/footer-coming.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/header-coming.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin-enqueue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/image-resize.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/default/dummy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/default/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/default/widgets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/dummy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/widgets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/pages/default/dummy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/pages/electronics/electronics.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/rtl/dummy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/rtl/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/dummy/rtl/widgets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/importer/importer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/mega-menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/plugin-activation/class-tgm-plugin-activation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/plugin-activation/plugin-init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/admin/theme-options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/conditional.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/blog-configure.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/dynamic_css.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/header-configure.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/sidebar-configure.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/configure/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/frontend-enqueue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/layout/breadcrumbs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/layout/coming-soon-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/layout/login-ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/layout/pre-loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/layout/wmpl-switcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/register-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/theme-filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/theme-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/theme-setup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/visual-composer/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/visual-composer/maps/heading.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/visual-composer/shortcodes/vc_custom_heading.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/notification.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/dokan/support-plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/wc-marketplace/support-plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/wc-vendors/support-plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/yith/compare.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/inc/woocommerce/vendor/yith/wishlist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/languages/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/languages/wooxon.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style-editor-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style-editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content-list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content-masonry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content-quote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/archive/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/biography.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/content-related.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/content-search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/content-single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/footer/footer-bottom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/footer/footer-layout-one.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/footer/footer-layout-two.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-21.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-22.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-23.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-24.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/header-cat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/headers/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/search-form/search-form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/site-loading.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/social-items.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/template-parts/vc-content-widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/archive-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/cart/cart-empty.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/cart/cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/cart/cross-sells.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/cart/proceed-to-checkout-button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/checkout/form-checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/checkout/form-coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/checkout/form-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/checkout/review-order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/compare.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/content-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/content-product_cat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/content-quickview-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/content-single-product-slide.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/content-single-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/global/quantity-input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/global/wrapper-end.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/global/wrapper-start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/loop/loop-end.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/loop/loop-start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/loop/no-products-found.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/loop/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/loop/toolbar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/myaccount/form-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/product-category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product-reviews.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/product-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/product-thumbnails.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/rating.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/related.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/review.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/tabs/tabs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/title.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/single-product/up-sells.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/vc-deal-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/vc-tabs-list-product-deals.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/vc-tabs-list-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/vc-tabs-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/vc-tabs-produt-deals.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/woocommerce/wishlist-view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wooxon/wpml-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/siteorigin-widgets/sow-slider-default-abf3e628296a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-2019-02-27-43bfcfff8f85cd0e06a07f266c67772d.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/wc-logs/wc-image-regeneration-2019-02-19-8ae2da6c2c66a8785cc52c72293bcb8f.log" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-2019-01-18-43bfcfff8f85cd0e06a07f266c67772d.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-2019-01-21-43bfcfff8f85cd0e06a07f266c67772d.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/test-log.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/wc-image-regeneration-2019-01-16-8ae2da6c2c66a8785cc52c72293bcb8f.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31250482_1608327779266505_3063252142446870528_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31250482_1608327779266505_3063252142446870528_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31250482_1608327779266505_3063252142446870528_n-800x1066.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31250482_1608327779266505_3063252142446870528_n-800x1066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-324x324.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-324x324.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-416x312.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-416x312.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-800x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31292628_1608327862599830_5425095318972661760_n-800x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31301603_1608327789266504_6168131606142779392_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31301603_1608327789266504_6168131606142779392_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/31301603_1608327789266504_6168131606142779392_n-800x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/31301603_1608327789266504_6168131606142779392_n-800x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32440669_1627941020638514_4420130769083564032_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32440669_1627941020638514_4420130769083564032_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32440669_1627941020638514_4420130769083564032_n-800x1066.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32440669_1627941020638514_4420130769083564032_n-800x1066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32456161_1627941127305170_2926458722559459328_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32456161_1627941127305170_2926458722559459328_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32456161_1627941127305170_2926458722559459328_n-800x1066.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32456161_1627941127305170_2926458722559459328_n-800x1066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32461439_1627941120638504_5391945378402664448_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32461439_1627941120638504_5391945378402664448_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32461439_1627941120638504_5391945378402664448_n-800x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32461439_1627941120638504_5391945378402664448_n-800x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32498225_1627941017305181_8356339167675809792_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32498225_1627941017305181_8356339167675809792_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32498225_1627941017305181_8356339167675809792_n-800x600.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32498225_1627941017305181_8356339167675809792_n-800x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32588539_1627941107305172_16108777354821632_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32588539_1627941107305172_16108777354821632_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32588539_1627941107305172_16108777354821632_n-800x1066.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32588539_1627941107305172_16108777354821632_n-800x1066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32648654_1627941027305180_3837024783250227200_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32648654_1627941027305180_3837024783250227200_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/32648654_1627941027305180_3837024783250227200_n-800x1066.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/32648654_1627941027305180_3837024783250227200_n-800x1066.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/accessories-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/beanie-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/beanie-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/beanie-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/beanie-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/belt-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/belt-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/belt-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/belt-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/cap-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/cap-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/cap-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/cap-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/cropped-32498225_1627941017305181_8356339167675809792_n-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/cropped-32498225_1627941017305181_8356339167675809792_n-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/cropped-32498225_1627941017305181_8356339167675809792_n-800x205.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/cropped-32498225_1627941017305181_8356339167675809792_n-800x205.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-600x372.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-600x372.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-800x496.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-1-800x496.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-600x420.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-600x420.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-800x561.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-2-800x561.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-259x194_t.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-259x194_t.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-600x491.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-600x491.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-800x654.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-3-800x654.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-600x449.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-600x449.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-800x599.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/download-800x599.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-800x496.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hero-3-800x496.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-logo-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-pocket-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-pocket-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-pocket-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-pocket-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-zipper-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-zipper-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-zipper-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodie-with-zipper-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/hoodies-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-600x801.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-600x801.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-800x1068.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-1-800x1068.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-600x447.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-600x447.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-800x596.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-2-800x596.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-600x356.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-600x356.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-800x475.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-3-800x475.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-300x300.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-300x300.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-600x491.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-600x491.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-800x654.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/images-800x654.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/long-sleeve-tee-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/long-sleeve-tee-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/long-sleeve-tee-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/long-sleeve-tee-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/polo-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/polo-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/polo-3-800x799.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/polo-3-800x799.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/sunglasses-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/sunglasses-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/sunglasses-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/sunglasses-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirt-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirt-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirt-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirt-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-800x800.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/tshirts-3-800x800.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/vneck-tee-3-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/vneck-tee-3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/vneck-tee-3-800x799.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/06/vneck-tee-3-800x799.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/07/logo-600x246.gif" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/07/logo-600x246.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/07/logo-800x328.gif" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/07/logo-800x328.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-600x471.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-600x471.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-800x628.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-1-800x628.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-100x100.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-600x473.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-600x473.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-800x632.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-2-e1547535543959-800x632.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-600x471.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-600x471.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-800x628.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/800px_COLOURBOX10990114-800x628.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-100x100.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-100x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-1024x1024.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-1024x1024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-150x150.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-300x300.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-300x300.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-600x553.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-600x553.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-600x600.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-600x600.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-768x708.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1-768x708.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/icon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-100x100.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-100x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-1024x1024.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-1024x1024.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-150x150.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-300x300.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-300x300.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-600x168.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-600x168.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-600x600.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-600x600.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-768x215.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo-768x215.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2019/01/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" afterPath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/31250482_1608327779266505_3063252142446870528_n-36e1ygsl4inlh7wtn7q8ei.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/31250482_1608327779266505_3063252142446870528_n-36e1ygsl4inlh7wtn7q8ei.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/31301603_1608327789266504_6168131606142779392_n-36e1yiav811utsva9ly3nu.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/31301603_1608327789266504_6168131606142779392_n-36e1yiav811utsva9ly3nu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/32456161_1627941127305170_2926458722559459328_n-36e1yife2bl1lum5nh4r9m.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/32456161_1627941127305170_2926458722559459328_n-36e1yife2bl1lum5nh4r9m.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/bx_slider_default_img-36i14wru0328fuo0qvrcp6.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/bx_slider_default_img-36i14wru0328fuo0qvrcp6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/bx_slider_default_img-36i14wrx4n2tzx066rafii.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/bx_slider_default_img-36i14wrx4n2tzx066rafii.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/download-1-36e21fpz7i8uii4qfe287e.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/download-1-36e21fpz7i8uii4qfe287e.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-1-36e23nvuwyocei1xr1bs3u.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-1-36e23nvuwyocei1xr1bs3u.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-1-36e23nvw26azlgcy620k5m.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-1-36e23nvw26azlgcy620k5m.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-3-36e23nvuwyocei1xr1bs3u.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-3-36e23nvuwyocei1xr1bs3u.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-3-36e23nvw26azlgcy620k5m.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-3-36e23nvw26azlgcy620k5m.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-36e23nvuwyocei1xr1bs3u.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-36e23nvuwyocei1xr1bs3u.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-36e23nvw26azlgcy620k5m.jpeg" afterPath="$PROJECT_DIR$/wp-content/uploads/bfi_thumb/images-36e23nvw26azlgcy620k5m.jpeg" />
+    <list default="true" id="a12d416e-8fee-4dcd-9343-10daac6703c4" name="Default" comment="commit upload theme">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/Random_Post.php" afterPath="$PROJECT_DIR$/wp-content/plugins/Random_Post.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -477,8 +35,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -802,7 +360,7 @@
       <workItem from="1551966511856" duration="542000" />
       <workItem from="1552359779729" duration="174000" />
       <workItem from="1552995145519" duration="995000" />
-      <workItem from="1553001590509" duration="211000" />
+      <workItem from="1553001590509" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="dev">
       <created>1548056652133</created>
@@ -811,11 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548056652133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit upload theme">
+      <created>1553001834181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553001834181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54047000" />
+    <option name="totallyTimeSpent" value="54201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="24" width="1303" height="744" extended-state="6" />
@@ -825,7 +390,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -864,12 +429,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev" />
+    <MESSAGE value="commit upload theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit upload theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1249,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
